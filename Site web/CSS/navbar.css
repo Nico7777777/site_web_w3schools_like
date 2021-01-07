@@ -1,0 +1,39 @@
+#navbar a{
+	display: inline-block;
+	background-color: #004d00;
+	color: black;
+	margin-right: 13px;
+	margin-left: 2px;
+	padding: 15px 5px;
+	font-size: 20px;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 5px;
+	vertical-align: middle;
+	text-decoration: none;
+}
+
+#navbar a:hover{
+	background-color: red ;
+	color: cyan;
+}
+
+#navbar{
+	width: 100%;
+	background-color:#004d00;
+	margin: 0;
+	height: 0.7in;
+	position:sticky;
+	top: 0;
+}
+
+navbar a:active{
+	background-color: black;
+	color: red;
+}
+
+#navbar a.active{
+	color:red;
+	background-color: black;
+}

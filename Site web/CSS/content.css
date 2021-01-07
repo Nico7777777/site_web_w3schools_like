@@ -1,0 +1,13 @@
+td.side{
+	width: 10%;
+	background-color: #ccccff;
+}
+
+td.central{
+	width: 80%;
+	word-break: break-all;
+}
+
+table{
+	width: 100%;
+	border: 0;

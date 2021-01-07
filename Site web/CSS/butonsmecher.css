@@ -1,0 +1,17 @@
+#butonsmecher{
+	font-size:34px;
+	position:fixed;
+	right:15px;
+	bottom:15px;
+	padding: 7 10px;
+	background-color:red;
+	margin: 0;
+}
+#butonsmecher a{
+	color:black;
+	text-decoration:none;
+}
+#butonsmecher a:hover{
+	color:cyan;
+}
+

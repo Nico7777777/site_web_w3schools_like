@@ -1,0 +1,13 @@
+body{
+margin: 0px;
+}
+#mainframe{
+font-size: 33;
+font-family: monospace , lucida, console;
+text-align: center;
+vertical-align: middle;
+width: 100%;
+height: 180px;
+background: radial-gradient(#ccccff 40%, #666699 100%);
+margin: 0;
+}

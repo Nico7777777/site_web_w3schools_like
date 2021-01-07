@@ -1,0 +1,21 @@
+#thelist{
+	border: 3px dashed red;
+	border-radius: 9px;
+    margin: 0% 20%;
+	list-style-type: none;
+	padding: 0px;
+}
+#thelist li{
+	padding: 3px 20px;
+	text-align: center;
+}
+#thelist li a{
+	padding:3px 25px;
+}
+#thelist li:hover{
+	background-color: black;
+}
+#thelist li:hover a{
+	background-color: #004d00;
+	color: cyan;
+}

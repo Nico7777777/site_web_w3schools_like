@@ -1,0 +1,17 @@
+#left{
+float: left;
+width: 10%;
+margin: 0;
+}
+
+#center{
+float: left;
+width: 80%;
+margin: 0;
+}
+
+#right{
+float:left;
+width: 10%;
+margin: 0;
+}
